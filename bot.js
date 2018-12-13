@@ -12,7 +12,7 @@ const bot10 = new Discord.Client();
  
    const ID = '518176101403459594';
    const ID2 = ['344222566711427072','518176101403459594'];
-
+   
 bot1.on('ready', () => {
   console.log('')
   console.log('')
@@ -60,10 +60,19 @@ message.channel.send('#daily')
 ///////////////////////////////////////////////
 
 bot1.on(`ready`, () => {
-   let channel = bot1.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+ 
+    
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot1.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send("Hello")
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+  }
+
 });
 ///////////////////////////////////////
 
@@ -126,10 +135,16 @@ message.channel.send('#daily')
 ////////////////////////////////
 
 bot2.on(`ready`, () => {
-   let channel = bot2.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot2.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send("spam too fast 97??")
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+}
 });
 
 /////////////////////////////////////
@@ -189,10 +204,16 @@ message.channel.send('#daily')
 ////////////////////////////////////
 
 bot3.on(`ready`, () => {
-   let channel = bot3.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot3.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send(args1)
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+}
 });
 //////////////////////////////////
 
@@ -255,12 +276,18 @@ message.channel.send('#daily')
 
 
 ////////////////////////////////////
-const args1 = ['hi','hola','hello','i love u so much']
+
 bot4.on(`ready`, () => {
-   let channel = bot4.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot4.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send(args1)
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+}
 });
 //////////////////////////////////
 
@@ -325,10 +352,16 @@ message.channel.send('#daily')
 ////////////////////////////////////
 
 bot5.on(`ready`, () => {
-   let channel = bot5.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot5.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send(args1)
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+}
 });
 //////////////////////////////////
 
@@ -393,10 +426,16 @@ message.channel.send('#daily')
 ////////////////////////////////////
 
 bot6.on(`ready`, () => {
-   let channel = bot6.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot6.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send(args1)
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+}
 });
 //////////////////////////////////
 
@@ -461,10 +500,16 @@ message.channel.send('#daily')
 ////////////////////////////////////
 
 bot7.on(`ready`, () => {
-   let channel = bot7.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot7.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send(args1)
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+}
 });
 //////////////////////////////////
 
@@ -529,10 +574,16 @@ message.channel.send('#daily')
 ////////////////////////////////////
 
 bot8.on(`ready`, () => {
-   let channel = bot8.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot8.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send(args1)
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+}
 });
 //////////////////////////////////
 
@@ -597,10 +648,16 @@ message.channel.send('#daily')
 ////////////////////////////////////
 
 bot9.on(`ready`, () => {
-   let channel = bot9.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot9.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send(args1)
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+}
 });
 //////////////////////////////////
 
@@ -665,10 +722,16 @@ message.channel.send('#daily')
 ////////////////////////////////////
 
 bot10.on(`ready`, () => {
-   let channel = bot10.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
+   
+        for(let x = 0; x < 900; x++) {
+
+  
+  let channel = bot10.guilds.get("520545293096189952").channels.find(c => c.id == "520545626778501130");
    setInterval(function() {
-    channel.send(args1)
-    }, 1000);
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
+  }, 900);
+
+}
 });
 //////////////////////////////////
 
